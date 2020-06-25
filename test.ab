@@ -1,0 +1,4 @@
+beginfun dhiman
+	integer a;
+	a=5;
+endfun
